@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I eat code for breakfast
 
+
+## Badges
+
+[![@renzothenoob's Holopin board](https://holopin.io/api/user/board?user=renzothenoob)](https://holopin.io/@renzothenoob)
