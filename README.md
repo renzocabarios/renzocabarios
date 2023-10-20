@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# My Portfolio:  https://vue-portfolio-steel.vercel.app
 
 Here are some ideas to get you started:
 
